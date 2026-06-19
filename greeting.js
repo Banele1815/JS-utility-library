@@ -2,5 +2,5 @@ function greetUser(name) {
     return 'Hello, ${name}!';
 }
 
-console.log(greetUser("Alice")); 
-// Hello, Alice! 
+console.log(greetUser("Bea")); 
+// Hello, Bea! 
